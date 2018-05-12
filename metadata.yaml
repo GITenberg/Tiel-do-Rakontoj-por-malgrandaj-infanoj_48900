@@ -1,4 +1,5 @@
 _repo: Tiel-do-Rakontoj-por-malgrandaj-infanoj_48900
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Pilger, Wouter F.
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '45030'
     url: http://www.gutenberg.org/2009/agents/45030
     wikipedia: http://eo.wikipedia.org/wiki/Wouter_Pilger
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: Translation of selections from "Just So Stories"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48900#Tiel-do-Rakontoj-por-malgrandaj-infanoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2015-05-08'
 gutenberg_type: Text
