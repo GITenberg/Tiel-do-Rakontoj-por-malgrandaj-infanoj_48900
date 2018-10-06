@@ -34,6 +34,8 @@ language: eo
 publisher: Project Gutenberg
 rights: Copyrighted. Read the copyright notice inside this book for details.
 rights_url: ''
+subjects:
+- GITenberg
 title: 'Tiel do
 
   Rakontoj por malgrandaj infanoj'
